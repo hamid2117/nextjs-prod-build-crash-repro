@@ -50,4 +50,4 @@ The app crashes on the first interaction after a new production build is deploye
 - The error disappears after a hard reload or when assets are properly synced
 - No service workers or custom caching logic is in place
 - Using default caching and headers in `next.config.js`
-- The browser API component demonstrates proper SSR handling, but the issue still occurs when a new build is deployed
+- The browser API component demonstrates proper SSR handling, not sure by handling that error while reproduce again or not.
